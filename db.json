@@ -1,6 +1,6 @@
 {
   "userinfo": [
-    { "name": "username 1",Bs: "groep 1" },
+    { "name": "username 1","Bs": "groep 1" },
   ],
   "bloemen": [
     { "id": 1340, "name": "Snow Cap", "aantal":"100" },
