@@ -1,0 +1,17 @@
+{
+"mogelijk": [
+    { "id": 1340, "name": "Snow Cap", "color": "white" },
+    { "id": 2125, "name": "Golden Scepter","color": "yellow"  },
+    { "id": 2140, "name": "Netty","color": "yellow"  },
+    { "id": 3123, "name": "Souvenir","color": "orange"  },
+    { "id": 3450, "name": "Safe Shot","color": "orange"  },
+    { "id": 34130, "name": "Salsa","color": "red"  },
+    { "id": 5305, "name": "Arabian night","color": "black"  },
+    { "id": 5410, "name": "Black Daimond","color": "black"  },
+    { "id": 6999, "name": "Esli","color": "pink"  },
+    { "id": 6418, "name": "Natalie G","color": "pink"  },
+    { "id": 7999, "name": "Daimond Paars","color": "purple"  },
+    { "id": 7340, "name": "Stratos","color": "purple"  },
+    { "id": 7310, "name": "Boy Scout","color": "purple"  }
+  ]
+}
